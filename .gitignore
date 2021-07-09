@@ -1,4 +1,4 @@
 .ipynb_checkpoints/**
 .git/**
-
-**/.ipynb_checkpoints
+/**/.ipynb_checkpoints
+.gitignore/**
